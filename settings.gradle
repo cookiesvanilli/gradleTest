@@ -1,0 +1,6 @@
+rootProject.name = 'gradleTest'
+
+include 'db'
+include 'api'
+include 'service'
+
